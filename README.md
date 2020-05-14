@@ -9,13 +9,13 @@ For further reference, please consider the following sections:
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/reference/htmlsingle/#using-boot-devtools)
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/reference/htmlsingle/#boot-features-jpa-and-spring-data)
 
-###getting started with any project:
+### getting started with any project:
 * [Start a new Spring Boot project](https://spring.io/quickstart)
 * Add your code
 * Try it 
 
 
-####MacOS/Linux:
+##### MacOS/Linux:
 ```bash
   ./mvnw spring-boot:run
 ```
@@ -24,7 +24,7 @@ For further reference, please consider the following sections:
 ```bash
   mvnw spring-boot:run
 ```
-###get start with this simple CRUD Blog API 
+### get start with this simple CRUD Blog API 
 * you should create [restapi] MySQL database 
 * create [Blog] table
 * build && run maven project
