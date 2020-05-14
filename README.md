@@ -13,11 +13,11 @@ For further reference, please consider the following sections:
 * [Start a new Spring Boot project](https://spring.io/quickstart)
 * Add your code
 * Try it 
-#####MacOS/Linux:
+#MacOS/Linux:
 ```bash
   ./mvnw spring-boot:run
 ```
-#####Windows:
+#Windows:
 ```bash
   mvnw spring-boot:run
 ```
